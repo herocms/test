@@ -15,8 +15,8 @@
 
     <properties>
     </properties>
-    <dependencyManagement>
-      <dependencies>
+    
+    <dependencies>
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
@@ -27,9 +27,7 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.23</version>
         </dependency>
-      </dependencies>
-    </dependencyManagement>
-	    
+    </dependencies>	    
 		
 
     <build>
